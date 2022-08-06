@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NataliaMoroni
+- 👋 Hola soy @NataliaMoroni
 - Me encuentro estudiando Desarrollo web
 - Este github se abrió para poder mostrar los avances de mi proyecto final llamado IdeaMoroni
 
